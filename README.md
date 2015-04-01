@@ -16,7 +16,7 @@ Create an account at https://www.openshift.com and install the client tools (run
 
 Create a php-5.4 application (you can call your application whatever you want) and use this repo URL to create new application.
 
-    rhc app create nette php-5.4 --from-code=https://github.com/kraklin/nette-openshift
+    rhc app create nette php-5.4 --from-code=https://github.com/jiri001meitner/nette-openshift
 
 That's it, you can now checkout your application at:
 
